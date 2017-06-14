@@ -3,12 +3,19 @@
     border-radius: 0px;
     background-color: white;
     color: white;
-
 }
+
 
 .jumbotron {
-    color:white;
-    background-color:grey;
+    color:black;
+    background-color:white;
+    font-family: 'Bubbler One', sans-serif;
+    text-align: center;
+    padding: 10px;
 }
 
-ufoasfbasjbfasf
+.bee {
+    width: 100px;
+}
+
+dsgsdg
