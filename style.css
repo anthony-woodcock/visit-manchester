@@ -1,21 +1,48 @@
 .navbar {
     border:0px;
-    border-radius: 0px;
-    background-color: white;
-    color: white;
+    border-radius: 0px; 
 }
 
 
 .jumbotron {
-    color:black;
-    background-color:white;
+    color:white;
     font-family: 'Bubbler One', sans-serif;
     text-align: center;
     padding: 10px;
+    background-image: url("images/jumbotron-background.png");  
+    background-size: cover;  
 }
 
 .bee {
     width: 100px;
 }
 
-dsgsdg
+.row  h2 {
+    font-family: 'Bubbler One', sans-serif;
+}
+
+.bold {
+font-weight:bold;
+}
+
+.to-do-p {
+    font-family: 'Bubbler One', sans-serif;
+    font-size: 20px;
+    padding-top: 5px;
+}
+
+.center-text {
+    text-align: center;
+}
+
+
+.bar h1{
+
+    font-family: 'Bubbler One', sans-serif;
+    font-size: 80px;
+
+} 
+
+.short-line {
+    width: 20%;
+}
