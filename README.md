@@ -1,4 +1,4 @@
-#Visit Manchester
+Visit Manchester
 
 Website consisting off 6 webpages showcasing activities in Manchester England.
 
